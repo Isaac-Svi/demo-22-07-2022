@@ -1,0 +1,22 @@
+body {
+    min-height: 100vh;
+}
+
+.center-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    border: 3px dashed gold;
+    margin: 10px;
+}
+
+.small-box {
+    width: 100px;
+    height: 100px;
+    background-color: #235789;
+}
